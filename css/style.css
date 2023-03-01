@@ -1,0 +1,77 @@
+html {
+    box-sizing: border-box;
+}
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+
+.naglowek {
+    color: rgb(20, 33, 219);
+    background-color: rgb(15, 207, 73);
+}
+
+.ciekawyElement {
+    color: rgb(231, 13, 13);
+}
+
+.pudelko {
+    color:hwb(240 5% 13%);
+    background-color: aquamarine;
+
+
+}
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.element {
+    width: 300px;
+    background: #ccc;
+    padding: 20px;
+    margin: 50 px auto 100px;
+    border: 2px solid rgb(6, 6, 142);
+
+}
+
+.tableCell {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.caption {
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 20px;
+}
+
+.tableHeader {
+    background-color: rgb(119, 40, 56);
+    color: white;
+    font-weight: normal;
+}
+.tableRow:nth-child(even){
+    background: rgb(195, 193, 193);
+}
+
+.tableRow:hover {
+    background: rgb(97, 93, 93);
+}
+
+.container {
+    overflow-x: auto;
+}
+.font-family: 'Lato', sans-serif;
