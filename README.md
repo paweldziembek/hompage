@@ -1,4 +1,5 @@
 #Paweł Dziembek - moja strona
-![Paweł}(images/pawel.jpg)
+![Paweł](images/paweł.jpg)
+
 Demo
 https://paweldziembek.github.io/hompage/
